@@ -2,7 +2,7 @@
  "name": "COVID-19 Protocol",
  "id": "7caac4a9-bbdc-4958-951a-a060fad23180",
  "scenario_trigger": "covid19",
- "description": "The latest version of the CDC COVID-19 Protocol",
+ "description": "The latest version of the CDC COVID-19 Protocol 2",
  "active": true,
  "updated": "2020-03-23T20:12:55.7760000Z",
  "userDisplayName": "Adam Walker",
